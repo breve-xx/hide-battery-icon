@@ -1,0 +1,8 @@
+{
+  "name": "Hide Battery Icon",
+  "description": "A simple GNOME Shell extension that aims to hide the battery icon in the top toolbar",
+  "uuid": "hide-battery-icon@breve-xx",
+  "shell-version": [
+    "45"
+  ]
+}

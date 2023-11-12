@@ -1,0 +1,5 @@
+.hide-battery-icon-extension-no-icon .power-status StIcon {
+    width: 0;
+    height: 0;
+    padding: 0;
+}
